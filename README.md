@@ -16,7 +16,7 @@ Aprender como fazer uma boa arquitetura para projetos.
 
 ## Área de interesse
 
-Backend e fullstac.
+Backend e fullstack.
 
 ## O que considero um software bem projetado?
 
